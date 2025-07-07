@@ -1,0 +1,115 @@
+.logo{
+    height: 200px;
+    width: 300px;
+    margin-left: 120px;
+}
+.heading{
+    margin-left: 80px ;
+    padding-bottom: 10px;
+    margin-top: -1px;
+}
+.para{
+    color: lightgray;
+    padding-left: 150px;
+    margin-top: -20px;
+    font-size: 20px;
+    
+}
+.applestore{
+    height: 100px;
+    width: 200px;
+    padding-top: 30px;
+    margin-left: 65px;
+
+}
+.androidstore{
+    height: 100px;
+    width: 200px;
+}
+.screen{
+    height: 400px;
+    width:400 ;
+    padding-left: 650px;
+    margin-top: -400px;
+
+}
+.screen1{
+    height:400;
+    width: 400px;
+    margin-left: 70px;
+} 
+.para1{
+    color: lightgray;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 500px;
+    
+}
+.heading1{
+    margin-left: 750px ;
+    margin-top: -350px;
+}
+.msgpic{
+    height: 400px;
+    width:500 ;
+    padding-left: 700px;
+    margin-top: -200px;   
+}
+.msg{
+    padding-top: 300px; 
+    margin-left: 250px;
+}
+.para2{
+    color: gray;
+    padding-top: -300px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+.icon{
+    height: 150px;
+    width: 450px;
+    margin-left: 500px;
+}
+.screen2{
+    height: 500px;
+    width: 450px;
+    margin-left: 85px;
+}
+.future{
+    margin-left:800px ;
+    margin-top: -400px;
+    font-size: 20px;    
+}
+.para3{
+    margin-left: 780px ;
+    color: lightgray;
+    font-size: 20px;
+    align-items: center;
+    position: relative;
+
+}
+.click{
+    padding-right: 15px;
+    margin-left: 550px;
+    margin-top: 300px;
+    font-size: 25px;
+}
+.android{
+    height: 100px;
+    width: 200px;
+    margin-left: 500px;
+
+
+}
+.apple{
+    height: 100px;
+    width: 200px;
+}
+.para4{
+    margin-left: 550px;
+}
+.logo1{
+    height: 100px;
+    width: 200px;
+    margin-left: 580px;
+}
